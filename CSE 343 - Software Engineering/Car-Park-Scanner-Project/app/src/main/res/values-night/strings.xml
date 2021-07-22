@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XPark</string>
+    <string name="res_inMapAct">REZERVASYON</string>
+    <string name="email">E-POSTA</string>
+    <string name="password">ŞİFRE</string>
+    <string name="phone">TELEFON</string>
+    <string name="sign_up">ÜYE OL</string>
+    <string name="sign_in">GİRİŞ</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="forgot_pw">Şifremi Unuttum</string>
+</resources>

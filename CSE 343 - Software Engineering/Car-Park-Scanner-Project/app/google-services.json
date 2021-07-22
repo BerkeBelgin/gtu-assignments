@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705611960944",
+    "firebase_url": "https://xpark-492ae.firebaseio.com",
+    "project_id": "xpark-492ae",
+    "storage_bucket": "xpark-492ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705611960944:android:a8e287b35d5dc4f5ac5ab5",
+        "android_client_info": {
+          "package_name": "com.example.xpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705611960944-rb2sd946jo70g00vivnnom8hr71vbbrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeb24h1IpKyV5ezbeoOmmDrjKACJvIEBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705611960944-rb2sd946jo70g00vivnnom8hr71vbbrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
