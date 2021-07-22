@@ -1,0 +1,5 @@
+CSE 108, Computer Programming, Proje & KuveytTürk Lab., 160, 6.5;
+CSE 109, Computer Programming, Proje & KuveytTürk Lab., 120, 5.5;
+CSE 110, Computer Programming, Proje & KuveytTürk Lab., 150, 7.5;
+CSE 111, Computer Programming, Proje & KuveytTürk Lab., 119, 8.5;
+CSE 112, Computer Programming, Proje & KuveytTürk Lab., 132, 9.5;

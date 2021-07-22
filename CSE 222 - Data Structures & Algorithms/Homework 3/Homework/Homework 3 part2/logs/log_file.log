@@ -1,0 +1,12 @@
+Nis 02, 2020 11:48:29 PM com.gtu.hw3p2.Main main
+INFO: ArrayList + index: Reading the text completed in 16.058 miliseconds
+
+Nis 02, 2020 11:48:29 PM com.gtu.hw3p2.Main main
+INFO: ArrayList + iterator: Reading the text completed in 3.2013 nanoseconds
+
+Nis 02, 2020 11:48:29 PM com.gtu.hw3p2.Main main
+INFO: LinkedList + index: Reading the text completed in 1.9055 miliseconds
+
+Nis 02, 2020 11:48:29 PM com.gtu.hw3p2.Main main
+INFO: LinkedList + iterator: Reading the text completed in 1.5483 nanoseconds
+
