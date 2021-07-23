@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.l": "lex",
+        "vmem.h": "c"
+    }
+}
